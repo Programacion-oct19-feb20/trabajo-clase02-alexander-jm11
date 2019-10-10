@@ -1,0 +1,2 @@
+Lenguaje de Programacion
+son formales que permiten comunicarle a un computador las necesidades a solucionar, a traves de instrucciones.
